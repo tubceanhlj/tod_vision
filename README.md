@@ -1,15 +1,6 @@
 # 淘然视界（Tod View）
-淘然视界（杭州）科技有限公司成立于2018年3月，是一家位于杭州的群体智能技术公司，致力于构建人机协同和交互驱动的演进式群智数据分析系统，实现开放环境下复杂问题求解和智能决策。<br>
+淘然视界（杭州）科技有限公司成立于2018年3月，是一家位于杭州的群体智能技术公司，致力于构建人机协同和交互驱动的演进式群智数据分析系统，实现开放环境下复杂问题求解和智能决策。<br> <br>
 
-<table>
-  <tr>
-     <td> <img src="https://github.com/tubceanhlj/tod_vision/blob/master/imgs/post-todview.jpeg" width="100" height="200" /> </td>
-  </tr>
- 
-</table>
-<br>
-1
-<br>
 <div class="msg_desc">
 <img style="max-width:100%;overflow:hidden;" src="https://github.com/tubceanhlj/tod_vision/blob/master/imgs/post-todview.jpeg" alt="">
 </div>
