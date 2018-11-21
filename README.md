@@ -14,19 +14,20 @@ Tod Vision是淘然视界旗下产品，致力于提供行业化的高质量数�
 1）牲畜（牛、羊、驴）无人机航拍<br>
 
 三、安防通用场景<br>
-1）<a href="https://github.com/tubceanhlj/tod-ReID">行人ReID</a> 更新频率：每周<br>
-2）<a href="https://github.com/cmhu/Monitoring-scene-face-data">监控场景人脸</a> 更新频率：每周<br>
-3）老年人脸<br>
-4）<a href="https://github.com/cmhu/ID-face">证件照</a> 更新频率：每周<br>
-5）<a href="https://github.com/tubceanhlj/tod-ifface">红外人脸</a> 更新频率：每月<br>
+1）<a href="https://github.com/tubceanhlj/tod-ReID">行人ReID</a> ，更新频率：每周<br>
+2）<a href="https://github.com/cmhu/Monitoring-scene-face-data">监控场景人脸</a> ，更新频率：每周<br>
+3）<a href="https://github.com/cmhu/Monitoring-scene-face-data">老年人脸</a> ，更新频率：每周<br> 
+4）<a href="https://github.com/cmhu/ID-face">证件照</a> ，更新频率：每周<br>
+5）<a href="https://github.com/tubceanhlj/tod-ifface">红外人脸</a> ，更新频率：每月<br>
 
 四、交通道路场景<br>
-1）<a href="https://github.com/cmhu/Traffic-target-detection">交通目标</a> 更新频率：每周<br>
-2）<a href="https://github.com/cmhu/License-plate">车牌</a> 更新频率：每周<br>
+1）<a href="https://github.com/cmhu/Traffic-target-detection">交通目标</a> ，更新频率：每周<br>
+2）<a href="https://github.com/cmhu/License-plate">车牌</a> ，更新频率：每周<br>
+3）<a href="https://github.com/cmhu/HD-bayonet-pictures">高清卡口</a> ，更新频率：每周<br>  
 
 五、其它<br>
-1）<a href="https://github.com/tubceanhlj/tod-palm">可见光掌纹</a> 更新频率：每周<br>
-2）<a href="https://github.com/cmhu/Button-recognition">纽扣</a> 更新频率：每周<br>
+1）<a href="https://github.com/tubceanhlj/tod-palm">可见光掌纹</a> ，更新频率：每周<br>
+2）<a href="https://github.com/cmhu/Button-recognition">纽扣</a> ，更新频率：每周<br>
 
 待更新<br>
 1）快递单<br>
@@ -43,7 +44,7 @@ Tod Vision是淘然视界旗下产品，致力于提供行业化的高质量数�
 12）行人（无人机航拍）<br>
 13）高密度人群视频<br>
 14）高清电子警察<br>
-15）高清卡口<br>
+15）违章建筑物（无人机航拍图像）<br>
 16）新能源车牌<br>
 17）车道线标注<br>
 18）便利店商品<br>
@@ -53,10 +54,10 @@ Tod Vision是淘然视界旗下产品，致力于提供行业化的高质量数�
 22）3D车辆标注<br>
 23）交通信号灯<br>
 24）道路3D点云图像<br>
-25）瓜果<br>
-26）蔬菜<br>
+25）南瓜<br>
+26）白菜<br>
 27）建筑物视频<br>
-28）违章建筑物（无人机航拍图像）<br>
+
 
 
 <br><br><br><br>
