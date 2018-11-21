@@ -6,12 +6,13 @@
 </div> <br>
 
 # 关于Tod Vision数据集订阅服务（如有问题，可以随时在Issues中提问）
-Tod Vision是淘然视界旗下产品，致力于提供行业化的高质量数据集订阅服务。以下是部分数据集简介及样例：<br>
+Tod Vision是淘然视界旗下产品，致力于提供行业化的高质量数据集订阅服务。以下是部分数据集简介及样例：<br><br>
 一、电网行业场景<br>
 1）<a href="https://github.com/cmhu/Construction-site ">工地（安全帽、安全绳、工作服、手套、袖章、工作单、作业工人）</a> 更新频率：每周<br>
 
 二、畜牧业<br>
-1）牲畜（牛、羊、驴）无人机航拍<br>
+1) <a href="https://github.com/tubceanhlj/tod-sheepdet">牲畜（牛、羊、驴）无人机航拍</a> ，更新频率：每周<br>
+
 
 三、安防通用场景<br>
 1）<a href="https://github.com/tubceanhlj/tod-ReID">行人ReID</a> ，更新频率：每周<br>
@@ -23,7 +24,9 @@ Tod Vision是淘然视界旗下产品，致力于提供行业化的高质量数�
 四、交通道路场景<br>
 1）<a href="https://github.com/cmhu/Traffic-target-detection">交通目标</a> ，更新频率：每周<br>
 2）<a href="https://github.com/cmhu/License-plate">车牌</a> ，更新频率：每周<br>
-3）<a href="https://github.com/cmhu/HD-bayonet-pictures">高清卡口</a> ，更新频率：每周<br>  
+3）<a href="https://github.com/cmhu/HD-bayonet-pictures">高清卡口</a> ，更新频率：每周<br> 
+4）<a href="https://github.com/cmhu/Electronic-police">高清卡口</a> ，更新频率：每周<br>  
+
 
 五、其它<br>
 1）<a href="https://github.com/tubceanhlj/tod-palm">可见光掌纹</a> ，更新频率：每周<br>
