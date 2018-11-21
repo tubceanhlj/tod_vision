@@ -12,6 +12,15 @@ Tod Vision是淘然视界旗下产品，致力于提供行业化的高质量数�
 8）<a href="https://github.com/cmhu/Monitoring-scene-face-data">监控场景人脸</a> 更新频率：每周<br>
 9）<a href="https://github.com/cmhu/Button-recognition">纽扣</a> 更新频率：每周<br>
 10）<a href="https://github.com/cmhu/License-plate">车牌</a> 更新频率：每周<br>
+11）高密度人群视频
+12）人类动作视频数据，包含六种类型的人类活动（步行、慢跑、跑步、拳击、摆手、拍手）
+13) 复杂背景行人跟踪视频
+14）电网巡检图
+15）高清电子警察
+16）高清卡口
+17）ATM机场景人脸
+18）新能源车牌
+19）便利店商品
 
 
 
