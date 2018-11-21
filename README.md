@@ -7,9 +7,14 @@ Tod Vision是淘然视界旗下产品，致力于提供行业化的高质量数�
 3）<a href="https://github.com/tubceanhlj/tod-palm">可见光掌纹</a> 更新频率：每周<br>
 4）<a href="https://github.com/cmhu/Traffic-target-detection">交通目标</a> 更新频率：每周<br>
 5）证件照（即将更新）<br>
-6）工地（安全帽、安全绳、工作服、手套、袖章、工作单、作业工人）（即将更新）<br>
-7）施工特种车辆（即将更新）<br>
-8）监控场景人脸（即将更新）<br>
+6）施工特种车辆（即将更新）<br>
+7）<a href="https://github.com/cmhu/Construction-site ">工地（安全帽、安全绳、工作服、手套、袖章、工作单、作业工人）</a> 更新频率：每周<br>
+8）<a href="https://github.com/cmhu/Monitoring-scene-face-data">监控场景人脸</a> 更新频率：每周<br>
+9）<a href="https://github.com/cmhu/Button-recognition">纽扣</a> 更新频率：每周<br>
+10）<a href="https://github.com/cmhu/License-plate">车牌</a> 更新频率：每周<br>
+
+
+
 <br><br><br><br>
 
 备注：Tod Vision支持json格式标注结果，具体格式可参考COCO数据集格式<br> 
