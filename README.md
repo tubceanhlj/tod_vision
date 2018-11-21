@@ -15,14 +15,14 @@ Tod Vision是淘然视界旗下产品，致力于提供行业化的高质量数�
 
 
 三、安防通用场景<br>
-1) <a href="https://github.com/tubceanhlj/tod-ReID">行人ReID</a> ，更新频率：每周<br>
+1）<a href="https://github.com/tubceanhlj/tod-ReID">行人ReID</a> ，更新频率：每周<br>
 2）<a href="https://github.com/cmhu/Monitoring-scene-face-data">监控场景人脸</a> ，更新频率：每周<br>
 3）<a href="https://github.com/cmhu/older-face">老年人脸</a> ，更新频率：每周<br> 
 4）<a href="https://github.com/cmhu/ID-face">证件照</a> ，更新频率：每周<br>
 5）<a href="https://github.com/tubceanhlj/tod-ifface">红外人脸</a> ，更新频率：每月<br>
 
 四、交通道路场景<br>
-1) <a href="https://github.com/cmhu/Traffic-target-detection">交通目标</a> ，更新频率：每周<br>
+1）<a href="https://github.com/cmhu/Traffic-target-detection">交通目标</a> ，更新频率：每周<br>
 2）<a href="https://github.com/cmhu/License-plate">车牌</a> ，更新频率：每周<br>
 3）<a href="https://github.com/cmhu/HD-bayonet-pictures">高清卡口</a> ，更新频率：每周<br> 
 4）<a href="https://github.com/cmhu/Electronic-police">电子警察</a> ，更新频率：每周<br>  
