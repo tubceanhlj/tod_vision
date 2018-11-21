@@ -11,7 +11,7 @@ Tod Vision是淘然视界旗下产品，致力于提供行业化的高质量数�
 1）<a href="https://github.com/cmhu/Construction-site ">工地（安全帽、安全绳、工作服、手套、袖章、工作单、作业工人）</a> 更新频率：每周<br>
 
 二、畜牧业<br>
-1) <a href="https://github.com/tubceanhlj/tod-sheepdet">牲畜（牛、羊、驴）无人机航拍</a> ，更新频率：每周<br>
+1）<a href="https://github.com/tubceanhlj/tod-sheepdet">牲畜（牛、羊、驴）无人机航拍</a> ，更新频率：每周<br>
 
 
 三、安防通用场景<br>
@@ -25,7 +25,7 @@ Tod Vision是淘然视界旗下产品，致力于提供行业化的高质量数�
 1）<a href="https://github.com/cmhu/Traffic-target-detection">交通目标</a> ，更新频率：每周<br>
 2）<a href="https://github.com/cmhu/License-plate">车牌</a> ，更新频率：每周<br>
 3）<a href="https://github.com/cmhu/HD-bayonet-pictures">高清卡口</a> ，更新频率：每周<br> 
-4）<a href="https://github.com/cmhu/Electronic-police">高清卡口</a> ，更新频率：每周<br>  
+4）<a href="https://github.com/cmhu/Electronic-police">电子警察</a> ，更新频率：每周<br>  
 
 
 五、其它<br>
